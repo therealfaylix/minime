@@ -2,6 +2,8 @@
 
 Minime is a modern, intuitive, and lightweight note-taking app built with Electron. It allows users to create and organize notes with ease. Minime gives you the ability to quickly capture ideas and manage your notes within a user-friendly environment.
 
+### MINIME IS STILL IN DEVELOPMENT AND ISN'T AVAILABLE FOR INSTALLATION YET!!
+
 ## Features
 
 - **Create & Edit Notes**: Easily create and edit text-based notes.
